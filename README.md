@@ -22,6 +22,9 @@ I have been experimenting with the NVD's solutions and researching more about wh
 I used the industry standard SHA-256 cryptographic function that was built into the Java SDK to create a checksum verification for data integrity. Additionally, I created a self-signed certificate to test the connection to the application using a secure connection with TLS/HTTPS. After refactoring the code, I used the automated Dependency-Check Maven tool to generate a vulnerability report and check for new vulnerabilities. 
 
 # What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-I learned how to utilize automated static testing using the Maven Dependency-Check tool, how to research and keep up with known vulnerabilities via the National Vulnerabilities Database, and the importance and impact of defensive security using industry leading security methods. There is a much larger pool of information for me to pull from and refer to when developing applications with secure code. Having the knowledge of just how vast the pool of vulnerabilities motivates a developer to take secure coding seriously. 
+I learned how to utilize automated static testing using the Maven Dependency-Check tool, how to research and keep up with known vulnerabilities via the National Vulnerabilities Database, and the importance and impact of defensive security using industry leading security methods. 
+
+# Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+There is a much larger pool of information for me to pull from and refer to when developing applications with secure code. Having the knowledge of just how vast the pool of vulnerabilities motivates a developer to take secure coding seriously. 
