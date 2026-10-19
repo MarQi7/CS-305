@@ -27,4 +27,4 @@ I learned how to utilize automated static testing using the Maven Dependency-Che
 
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-There is a much larger pool of information for me to pull from and refer to when developing applications with secure code. Having the knowledge of just how vast the pool of vulnerabilities motivates a developer to take secure coding seriously. 
+There is a much larger pool of information for me to pull from and refer to when developing applications with secure code. Having the knowledge of just how vast the pool of vulnerabilities motivates a developer to take secure coding seriously. I would likely show them how I implemented additional security and continued to search for new vulnerabilities during development. 
